@@ -18,7 +18,7 @@ const SideBar = () => {
     { id: 3, path: "/messages", name: "Messages", icon: LuMessageSquare },
     { id: 4, path: "/projects", name: "Projects", icon: FaSuitcase },
     { id: 5, path: "/clients", name: "Clients", icon: LuUser },
-    { id: 6, path: "/work", name: "Work plan", icon: LuCalendar },
+    { id: 6, path: "/work", name: "Work Plan", icon: LuCalendar },
   ];
 
   return (
